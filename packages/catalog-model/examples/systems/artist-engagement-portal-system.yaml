@@ -31,6 +31,54 @@ metadata:
       title: Admin Dashboard 6
       icon: dashboard
       type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 1
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 2
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 3
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 4
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 5
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 6
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 1
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 2
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 3
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 4
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 5
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://admin.example-org.com
+      title: Admin Dashboard 6
+      icon: dashboard
+      type: admin-dashboard
 spec:
   owner: team-a
   domain: artists
