@@ -32,51 +32,51 @@ metadata:
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 1
+      title: Admin Dashboard 7
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 2
+      title: Admin Dashboard 8
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 3
+      title: Admin Dashboard 9
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 4
+      title: Admin Dashboard 10
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 5
+      title: Admin Dashboard 11
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 6
+      title: Admin Dashboard 12
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 1
+      title: Admin Dashboard 13
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 2
+      title: Admin Dashboard 14
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 3
+      title: Admin Dashboard 15
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 4
+      title: Admin Dashboard 16
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 5
+      title: Admin Dashboard 17
       icon: dashboard
       type: admin-dashboard
     - url: https://admin.example-org.com
-      title: Admin Dashboard 6
+      title: Admin Dashboard 18
       icon: dashboard
       type: admin-dashboard
 spec:
